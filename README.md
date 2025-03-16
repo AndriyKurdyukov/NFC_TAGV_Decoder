@@ -1,5 +1,5 @@
 # NFC_TAGV_Decoder
-Additional embedded block(called NFCV_framer) for Gnu Radio which output decoded byte stream to the console. Currently only decoding in one direction (Reader->Tag) is supported. 
+Additional embedded block(called "**NFCV_framer**") for Gnu Radio which output decoded byte stream to the console. Currently only decoding in one direction (Reader->Tag) is supported. 
 
 This block expects float "1" and "0" for carrier on and carrier off, respectively. Only iso15693 1 in 4 encoding is supported.
 
